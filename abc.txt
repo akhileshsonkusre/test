@@ -1,0 +1,4 @@
+Hadoop Components   : Hive, Pig, Sqoop, Flume.
+Tools & Utilities            : Toad, SQL Oracle Developer, WinSCP, MSTSC, Putty, Remedy, Eclips.
+Languages              	:	PLSQL, Java, Hive QL, Pig Latin.
+Databases               	:	Oracle, MySQL
